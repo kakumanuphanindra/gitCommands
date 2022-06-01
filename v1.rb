@@ -4,5 +4,6 @@ class V1
         print "commit 2"
         print "stash extra work branch3"
         print "test after rebase to branch"
+	print "test action created"
 	end
 end
