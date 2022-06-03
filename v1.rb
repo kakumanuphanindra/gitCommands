@@ -5,5 +5,6 @@ class V1
         print "stash extra work branch3"
         print "test after rebase to branch"
 	print "git and slack integration"
+	print "slack pr merge test - 1"
 	end
 end
