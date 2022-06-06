@@ -3,9 +3,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '/v1.rb'
-
 jobs:
   hawk:
     name: hawk
