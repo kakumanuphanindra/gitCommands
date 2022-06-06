@@ -12,5 +12,5 @@ jobs:
     - name: CommitHawk
       uses: jesalg/commit-hawk-action@v1.1
       with:
-        slack_webhook_url: 'https://learner-ery7692.slack.com'
+        slack_webhook_url: 'https://hooks.slack.com/services/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'
         slack_message: 'Contents of some important file(v1.rb) were changed on main'
